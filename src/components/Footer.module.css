@@ -1,0 +1,10 @@
+.footer{
+    background-color: #a8071a;
+    height:48px;
+}
+.info{
+    font-size: 16px;
+    text-align:center;
+    color:white;
+    line-height: 48px;
+}

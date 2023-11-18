@@ -1,0 +1,17 @@
+/* .card{
+    margin-left: 15%;
+} */
+.card,.heading, .btn {
+    margin-left: 15%;
+
+}
+.cart{
+    margin-top:4px;
+    padding: 8px;
+    font-size: 36px;
+}
+.info{
+    color:brown;
+    font-weight: bold;
+    font-size: 16px;
+}

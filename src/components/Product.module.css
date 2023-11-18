@@ -1,0 +1,20 @@
+.product{
+    background-color: #fff1b8;
+    margin: 48px 50px;
+    padding: 2px;
+    width:100%;
+    /* border: 1px solid red; */
+    
+  }
+  .product-item{
+    text-align: center;
+    font-weight: 400;
+  }
+  .product-row{
+    justify-items: center;
+  }
+  .image{
+    width:100%;
+    height:200px;
+    
+  }
