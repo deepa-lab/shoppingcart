@@ -3,7 +3,6 @@
 
 // module.exports = nextConfig
 module.exports = {
-  output: 'export',
     images: {
       domains:['i.dummyjson.com'],
       remotePatterns: [
