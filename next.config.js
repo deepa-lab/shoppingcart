@@ -4,7 +4,7 @@
 // module.exports = nextConfig
 module.exports = {
     images: {
-      domains:['i.dummyjson.com'],
+      domains:['cdn.dummyjson.com'],
       remotePatterns: [
         {
           protocol: 'https',
